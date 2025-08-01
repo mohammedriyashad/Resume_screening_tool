@@ -1,0 +1,5 @@
+• Build and fine-tune Object Detection and Image Segmentation models.
+• Train and adapt Stable Diffusion and other image diffusion models.
+• Implement RAG workflows for image and text tasks.
+• Collaborate on designing and deploying ML models for internal use cases.
+• Optimize ML models for efficiency and scalability.
