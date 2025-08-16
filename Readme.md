@@ -18,9 +18,13 @@ This project uses Machine Learning to automatically screen resumes based on spec
 Resume_screening_tool/
 │
 ├── .gitattributes         # Git configuration for handling file attributes
+
 ├── Job_Description        # Contains the job description used for screening
+
 ├── Readme.md              # Project overview, setup instructions, and documentation
+
 ├── Requirements.txt       # Python dependencies required to run the project
+
 └── Resume_Screening.ipynb # Jupyter notebook implementing the ML screening logic
 
 
