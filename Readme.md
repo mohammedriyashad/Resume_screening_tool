@@ -16,6 +16,7 @@ This project uses Machine Learning to automatically screen resumes based on spec
 
 ## 🗂️ Project Structure
 Resume_screening_tool/
+
 │
 ├── .gitattributes         # Git configuration for handling file attributes
 
